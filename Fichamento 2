@@ -1,0 +1,40 @@
+Acessibilidade em dispositivos móveis: uma análise sob a perspectiva das pesquisas em interação humano computador no Brasil
+
+Neto, N. G. da S., Medeiros, F. P. A. de, Araújo, R. P., & Silva, A. M. da. (2021). Acessibilidade em dispositivos móveis: uma análise sob a perspectiva das 
+pesquisas em interação humano computador no Brasil/ Accessibility on mobile devices: an analysis from the perspective of human computer Interaction researches in Brazil. 
+Brazilian Journal of Development, 7(4), 34137–34150. https://doi.org/10.34117/bjdv7n4-053
+
+O artigo apresentou uma revisão sistemática de outros 12 artigos no total, que aplicando critérios de exclusão caíram para 7, retirados da 
+ACM DIGITAl LIBRARY relacionados a área de acessibilidade em interfaces para dispositivos mobile.
+Com o intuito de realizar uma revisão sistemática os autores levantaram 3 questões para guiá-los durante a a revisão sistemática, sendo elas: 
+"Quais são as barreiras encontradas pelos usuários com deficiência no uso de dispositivos móveis nos estudos analisados?"; "Como os estudos analisados 
+propuseram ou desenvolveram interfaces mobile para a atender questões de acessibilidade?"; "Como os estudos propuseram ou conduziram avaliações de
+usabilidade/UX mobile em face à acessibilidade?".
+Após aplicação dos critérios de exclusão e inclusão os autores fizeram uma leitura completa dos artigos remanescentes com o objetivo de responder as 
+questões levantadas.
+Por fim, depois de responder as questões levantadas com base nos 7 artigos estudados os autores chegaram a conclusão de que as pesquisas relacionadas ao assunto de 
+acessibilidade em dispositivos móveis ainda está no início e carece ainda de mais contribuições. Os autores também identificaram a necessidade de
+que os desenvolvedores tenham conhecimentos de recursos de usabilidade para dispositivos móveis, seguindo as recomendações da W3C, WAI e WCAG.
+
+IHC – Interface Humano-computador
+
+Survey - (pesquisa) é um método de pesquisa utilizado para obtenção de informações quantitativas sobre um determinado grupo de pessoas
+
+W3C - World Wide Web Consortium é a principal organização de padronização da World Wide Web
+
+WAI - Web Accessibility Initiative ou Iniciativa de Acessibilidade na Web do World Wide Web Consortium é um esforço para melhorar a 
+acessibilidade da World Wide Web para pessoas com deficiência
+
+WCAG - Web Content Accessibility Guidelines ou Diretrizes de Acessibilidade para o Conteúdo da Web são parte de uma série de recomendações para 
+acessibilidade para a web publicadas pela Web Accessibility Initiative do W3C
+
+“Acessibilidade é o direito de qualquer pessoa de aproveitar dos produtos e serviços ou informações que pertence a vida de uma sociedade, livre de 
+capacidades físico-motoras e aspectos sociais e culturais (Silva et al., 2021).”
+
+“Apesar da relevância dos artigos escritos e identificados, é possível perceber o quão incipiente é o tema no que tange as pesquisas científicas no Brasil.”
+
+“Torna-se   necessário   que os desenvolvedores tenham o conhecimento dos recursos de acessibilidade para dispositivos móveis, bem como sigam as recomendações da 
+W3C em conjunto com a WAI e WCAG.”
+
+
+
