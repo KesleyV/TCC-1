@@ -1,0 +1,28 @@
+Um estudo comparativo na geração de personas de crianças autistas com base em dados reais
+
+Luciano, F., da Silva, Q., Marques, A. B., & Figueiredo, T. F. (n.d.). Um estudo comparativo na geração de personas de crianças autistas com base em dados reais.
+
+O artigo traz uma comparação entre dois métodos de criação de personas, manual e semiautomático, aplicados ao cenário de pessoas portadoras de autismo. 
+Os autores utilizaram um survey coletado em outro artigo para definir a estrutura da persona através do método semiautomático e para coleta manual de dados
+os autores se basearam em um método definido em um artigo citado por eles. 
+Para a criação manual das personas os autores selecionaram três estudantes de engenharia de software e para a criação semiautomática não foi necessário 
+nada além de um condutor (um dos pesquisadores) para fazer a criação.
+Por fim os pesquisadores submeteram as personas criadas para a avaliação de profissionais relacionados a área de TEA e assim obtiveram os resultados da pesquisa, 
+constatando que o método semiautomático, com uma diferença não muito relevante, se saiu melhor que o método manual no contexto aplicado, porém mesmo com a pouca 
+diferença nos resultados, deve levar em consideração a diferença de tempo gasto entre os dois métodos para a criação das personas.
+
+TEA (transtorno do espectro autista) é o termo cientifico para o que é popularmente conhecido como autismo.
+Persona são personagens fictícios criados para representar os diferentes tipos de usuário dentro de um alvo demográfico, atitude e/ou comportamento definido que poderia 
+utilizar um site, uma marca ou produto de um modo similar.
+Survey (pesquisa) é um método de pesquisa utilizado para obtenção de informações quantitativas sobre um determinado grupo de pessoas.	
+
+“A técnica de personas é uma relevante ferramenta para descobertas de informações sobre o usuário, por utilizar processos sucessivos de investigação sobre os usuários
+alvos [Leme et al. 2015].”
+
+“Tentando solucionar este problema com o auxílio da Computação, surgiram os métodos de geração semiautomática e automática de personas.”
+
+“os estudos que propõem a automatização da criação de personas não investigam a qualidade das personas geradas em comparação às personas geradas de forma tradicional 
+e os custos dos processos”
+
+“Os resultados indicam que as personas geradas de forma semiautomática apresentaram qualidade similar às personas geradas manualmente, porém a um custo menor. 
+Com isso, espera-se fornecer indícios dos potenciais benefícios desta técnica para o desenvolvimento de software.”
