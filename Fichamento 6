@@ -1,0 +1,24 @@
+B. Yang, Z. Xing, X. Xia, C. Chen, D. Ye and S. Li, "Don’t Do That! Hunting Down Visual Design Smells in Complex UIs Against Design Guidelines," 2021 IEEE/ACM 43rd 
+International Conference on Software Engineering (ICSE), 2021, pp. 761-772, doi: 10.1109/ICSE43902.2021.00075.
+
+O artigo fala a respeito de code smells relacionados a área de design de interface de usuário. 
+Os autores identificaram várias irregularidades em interfaces e as compararam com code smells, que são pequenas características em um código que podem estar atreladas
+á algum problema. Sendo assim os autores focaram em investigar documentações de material design para assim desenvolver uma ferramenta, chamada UIS Hunter que detecta 
+code smells dentro de interfaces, produzindo assim um relatório com as violações. Os autores selecionaram várias interfaces de variados aplicativos para aplicar a UIS e
+após isso colocaram os  resultados obtidos em gráficos que foram separados por componentes.
+Em conclusão, os autores detectaram que a ferramenta se mostrou bastante eficaz e através da aplicação da mesma nas inetrfaces selecionadas, conseguiram capturar muitas
+violações, code smells, em vários tipos de componentes. Concluindo que a ferramente desenvolvida por eles, USI Hunter, se mostrou mais eficaz na detecção de code smells
+do que os métodos manuais. 
+
+GUI: Graphical User Interface 
+Code Smells: termo em inglês que significa (cheiro de código) que quer dizer que existe alguma característica no código fonte que leve a algum problema maior
+Material design:  é uma linguagem de design desenvolvida pela Google
+UI design smells: problemas do mesmo tipo de code smells comuns porém voltados para o design de interface.
+
+“According to the Appiterate survey, 42% of users would uninstall an app with a poorly designed UI.”
+“Material Design guidelines are a natural response to many poor app UI designs that lead to low-quality user experiences”
+“Just like code smells in source code, UI design has visual design smells”
+
+
+ 
+
